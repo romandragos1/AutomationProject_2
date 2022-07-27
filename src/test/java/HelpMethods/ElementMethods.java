@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 public class ElementMethods {
 
     public WebDriver Driver;
-
+    
     public ElementMethods(WebDriver driver) {
         Driver = driver;
     }
