@@ -1,0 +1,32 @@
+# AutomationProject_2
+
+Page Object Model design pattern using Selenium with Java;
+Automation tests on https://demo.nopcommerce.com/
+
+RegisterTest
+LoginTest
+AddAddressToAccountTest
+AddComputersProductsToCartTest
+AddComputersProductsToWishlistTest
+AddElectronicsProductsToCartTest
+AddElectronicsProductsToWishlistTest
+AddApparelProductsToCartTest
+AddApparelProductsToWishlistTest
+AddBooksProductsToCartTest
+AddBooksProductsToWishlistTest
+AddDigitalDownloadProductsToCartTest
+AddDigitalDownloadProductsToWishlistTest
+AddJewelryProductsToCartTest
+AddJewelryProductsToWishlistTest
+AddGiftCardsProductsToCartTest
+AddGiftCardsProductsToWishlistTest
+ReviewARandomProductTest
+FinalizeAnOrderTest
+ReviewARandomProductTest
+AdvanceSearchTest
+ApplyForVendorAccountTest
+Compare2ProductsTest
+ContactUsTest
+EmailProductToFriendTest
+AddCommentToBlogArticleTest
+AddCommentToNewsArticleTest
