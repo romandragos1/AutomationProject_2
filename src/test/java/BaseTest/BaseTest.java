@@ -22,6 +22,6 @@ public class BaseTest {
 
     @After
     public void Cleaner() {
-//        Driver.quit();
+        Driver.quit();
     }
 }
