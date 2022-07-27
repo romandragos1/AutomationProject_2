@@ -60,7 +60,7 @@ public class RegisterPage {
     private WebElement continueElement;
 
     public void register_nopCommerce(String firstname, String lastname, String email, String dayOfBirth, String monthOfBirth,
-                                     String yearOfBirth, String company, String password, String confirmPassword) {
+                                     String yearOfBirth, String company,  String password, String confirmPassword) {
         clickRegisterButtonFromHomepage();
         clickGenderElement();
         fillFirstNameElement(firstname);

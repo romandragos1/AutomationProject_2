@@ -29,7 +29,7 @@ public class LoginPage {
     @FindBy(xpath = "//button[@class='button-1 login-button']")
     private WebElement submitButton;
 
-    public void login_nopCommerce(String email, String password) {
+    public void login_nopCommerce(String email,  String password) {
         clickLoginButtonFromHomepage();
         fillEmailElement(email);
         fillPasswordElement(password);
